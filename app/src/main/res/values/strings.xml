@@ -8,6 +8,7 @@
     <string name="tab_whitelist">白名单</string>
     <string name="btn_approve">同意</string>
     <string name="btn_reject">拒绝</string>
+    <string name="btn_delete">删除</string>
     <string name="empty_pending">暂无待审批请求</string>
     <string name="empty_whitelist">白名单为空</string>
     <string name="toast_approved">已同意</string>
