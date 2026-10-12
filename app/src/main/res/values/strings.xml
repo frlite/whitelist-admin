@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">白名单管理端</string>
+    <string name="hint_server">服务器地址</string>
+    <string name="hint_password">管理密码</string>
+    <string name="btn_login">登录</string>
+    <string name="tab_pending">待审批</string>
+    <string name="tab_whitelist">白名单</string>
+    <string name="btn_approve">同意</string>
+    <string name="btn_reject">拒绝</string>
+    <string name="empty_pending">暂无待审批请求</string>
+    <string name="empty_whitelist">白名单为空</string>
+    <string name="toast_approved">已同意</string>
+    <string name="toast_rejected">已拒绝</string>
+    <string name="toast_removed">已删除</string>
+    <string name="toast_login_failed">登录失败</string>
+    <string name="toast_network_error">网络错误</string>
+</resources>
